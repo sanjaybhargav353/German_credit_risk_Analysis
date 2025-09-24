@@ -13,14 +13,17 @@ To answer this question, I performed an end-to-end analysis using Python. My wor
 3.  **Visualization:** Used Matplotlib and Seaborn to create clear, insightful charts to communicate my findings.
 
 ---
-### Key Findings: The Anatomy of a Risky Loan 
-My analysis revealed several key factors that strongly correlate with a higher risk of default:
+### Key Findings: A Multi-Factor View of Credit Risk 🕵️‍♀️
 
-* **The Purpose of the Loan Matters:** Not all loans are created equal. The analysis showed that loans for **'business'** and **'radio/tv'** carry a significantly higher default risk than safer loans, such as those for a **'new car'**.
 
-* **Financial Habits are a Key Indicator:** An applicant's existing financial situation is a strong predictor of their ability to repay a loan. Applicants with **little or no savings** were found to be at a much higher risk of default.
+* **Financial Health is Paramount:** The clearest indicators of risk are an applicant's savings and checking account balances. Applicants with **'little'** in their accounts have the highest default rates (over 35% and 45% respectively), while those with **'rich'** accounts are the safest borrowers.
 
-* **The Burden of Debt:** The size and duration of the loan are critical. Higher **credit amounts** and longer repayment **durations** were both strongly correlated with an increased likelihood of default. This suggests that larger, longer-term loans present a greater risk to the institution.
+* **Housing Status as a Stability Signal:** Homeownership is a strong indicator of lower risk. Customers who **'rent'** have the highest rate of default, while those who **'own'** their homes are significantly less likely to default.
+
+* **The Purpose of the Loan Matters:** The reason for the loan is a major factor. Loans for **'education'**, **'repairs'** and **'Vacation'** carry a much higher risk than loans for things like **'readio/TV'** or a **'furniture/equipment'**.
+
+* **Demographic Factors:** The data also shows a demographic trend where **female** applicants in this dataset had a slightly higher default rate than male applicants.
+
 
 
 ---
