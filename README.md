@@ -13,7 +13,7 @@ To answer this question, I performed an end-to-end analysis using Python. My wor
 3.  **Visualization:** Used Matplotlib and Seaborn to create clear, insightful charts to communicate my findings.
 
 ---
-### Key Findings: A Multi-Factor View of Credit Risk 🕵️‍♀️
+### Key Findings: A Multi-Factor View of Credit Risk 
 
 
 * **Financial Health is Paramount:** The clearest indicators of risk are an applicant's savings and checking account balances. Applicants with **'little'** in their accounts have the highest default rates (over 35% and 45% respectively), while those with **'rich'** accounts are the safest borrowers.
